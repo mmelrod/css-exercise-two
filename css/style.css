@@ -1,5 +1,5 @@
 body {
-  background-color: #C1C4FF;
+  background-color: #E7F8FD;
   color: #1B3467;
   font-size: 16px;
 }
@@ -36,6 +36,10 @@ h3 {
 figcaption {
   font-size: .9em;
   margin-block-start: .3em;
+}
+
+p {
+  margin-block-end: 1em;
 }
 
 .author {
